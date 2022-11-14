@@ -1,0 +1,6 @@
+superuser:
+badeanish6045@gmail.com
+admin
+adminadmin
+
+ctr+shift+h == prettify

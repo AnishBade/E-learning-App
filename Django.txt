@@ -1,0 +1,23 @@
+-install virtualenvwrapper - pip install virtualenvwrapper
+-create a virtualenv - mkvirtualenv envname
+-activate virtualenv - workon envname
+-install django in the venv- pip install Django
+-create django project - django-admin createproject projectname
+-create django app inside the project - python manage.py startapp appname
+
+
+VIRTUAL ENV :
+-see list of virtual envs in the pc - lsvirtualenv
+-deactivate virtualenv - deactivate
+-remove venv from the pc - rmvirtualenv envname
+
+
+-why we use def __str__(self) in django models:
+- https://www.geeksforgeeks.org/change-object-display-name-using-__str__-function-django-models-python/#:~:text=This%20article%20will%20explore%20how%20to%20make%20changes,create%20a%20project%20and%20an%20app%20in%20Django.
+- https://www.youtube.com/watch?v=jMfZJwW13N0
+
+-what is class meta used in django models:
+https://www.delftstack.com/howto/django/class-meta-in-django/#:~:text=The%20Meta%20class%20can%20be%20used%20to%20define,also%20comes%20with%20many%20options%20you%20can%20configure.
+
+-How to install redis on windows:
+https://www.youtube.com/watch?v=188Fy-oCw4w
