@@ -21,3 +21,6 @@ https://www.delftstack.com/howto/django/class-meta-in-django/#:~:text=The%20Meta
 
 -How to install redis on windows:
 https://www.youtube.com/watch?v=188Fy-oCw4w
+
+- *args and **kwargs in python
+https://www.youtube.com/watch?v=37EaS1sAeUo&list=PLu0W_9lII9aiJWQ7VhY712fuimEpQZYp4&index=6
