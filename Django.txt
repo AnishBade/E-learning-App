@@ -6,6 +6,11 @@
 -create django app inside the project - python manage.py startapp appname
 
 
+Alternative way to create virtualenv:
+mkdir env
+python3 -m venv env/educa 
+source env/educa/bin/activate
+
 VIRTUAL ENV :
 -see list of virtual envs in the pc - lsvirtualenv
 -deactivate virtualenv - deactivate

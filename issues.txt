@@ -3,4 +3,9 @@ badeanish6045@gmail.com
 admin
 adminadmin
 
+
+user:
+anish
+badeanish12
+
 ctr+shift+h == prettify
