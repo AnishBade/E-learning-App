@@ -9,3 +9,8 @@ anish
 badeanish12
 
 ctr+shift+h == prettify
+
+ERROR:
+-NOT NULL constraint failed: courses_module.order(obtained while saving the module in page 396 cause: doing makemigrations in chapter 10 page number 374)
+-solution:
+https://github.com/PacktPublishing/Django-2-by-Example/issues/52
